@@ -12,7 +12,7 @@ Implementation of a web page based on a PSD template (Codeart Internship).
 
 <div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173607280-944ccd3d-f077-4c42-8556-204a54bfaab6.png"> </div><div align="center"><i></i></div>
 
-<div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173607398-cd616d66-d7f5-47da-afaa-0c0a0418fc4c.png"></div><div align="center"><i></i></div>
+<div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173608238-e3bc8b2d-d0db-4dfa-8745-f577000a4ac3.png"></div><div align="center"><i></i></div>
 
 
 
